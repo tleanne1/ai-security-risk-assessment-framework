@@ -15,6 +15,16 @@ The framework evaluates risks associated with Large Language Models (LLMs), AI a
 
 ---
 
+## Business Scenario
+
+A fictional enterprise plans to adopt Large Language Models (LLMs), AI assistants, and third-party AI services to improve productivity and automate business processes.
+
+Security leadership requested a comprehensive assessment of AI-related risks, governance requirements, security controls, vendor risks, and compliance considerations before deployment.
+
+This repository documents the assessment process, findings, and recommended controls.
+
+---
+
 ## Objectives
 
 - Identify AI-specific threats and attack vectors
